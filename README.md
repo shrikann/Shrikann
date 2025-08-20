@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Shrikann  
 
-<!--
-**shrikann/Shrikann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Passionate Software Developer | Web Enthusiast | Front End Developer | Back End Developer  
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me  
+Dedicated and proficient Software Developer with expertise in **Java** and strong problem-solving abilities, seeking a challenging role to contribute to innovative projects in web technologies and scalable application design.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack  
+- **Languages**: Java, Python, JavaScript, HTML, CSS  
+- **Frameworks & Libraries**: React, Flutter  
+- **Database**: MySQL  
+- **Tools & IDEs**: VS Code  
+
+---
+
+### 📂 Projects  
+🔹 Explore my repositories here: [GitHub Projects](https://github.com/Shrikann?tab=repositories)  
+
+---
+
+### 📬 Connect With Me  
+- 📧 Email: **shrineshshrinesh4@gmail.com**  
+- 💼 LinkedIn: [Shrinesh K](https://www.linkedin.com/in/shrinesh-k-33669b258)  
+- 🐦 Twitter: [@__Shrinesh__](https://x.com/__Shrinesh__?t=cuLDlmLQkgeFpeQKhrz2iQ&s=08)  
+
+---
+
+### 🎉 Fun Ending  
+Thanks for visiting my profile!  
+![Bye](https://media.giphy.com/media/26xBukhX6s2GfLidK/giphy.gif)
