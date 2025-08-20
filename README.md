@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shrikann  
+# 👋 Hi, I'm Shrinesh kannan  
 
 ## 🚀 Passionate Software Developer | Web Enthusiast | Front End Developer | Back End Developer  
 
