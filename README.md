@@ -8,10 +8,10 @@ Dedicated and proficient Software Developer with expertise in **Java** and stron
 ---
 
 ### 🛠️ Tech Stack  
-- **Languages**: Java, Python, JavaScript, HTML, CSS  
-- **Frameworks & Libraries**: React, Flutter  
-- **Database**: MySQL  
-- **Tools & IDEs**: VS Code  
+- 💻 Languages: **Java**, **Python**, **JavaScript**, **HTML**, **CSS**  
+- ⚛️ Frameworks & Libraries: **React**, **Flutter**  
+- 🗄️ Database: **MySQL**  
+- 🛠️ Tools & IDEs: **VS Code**  
 
 ---
 
@@ -21,9 +21,9 @@ Dedicated and proficient Software Developer with expertise in **Java** and stron
 ---
 
 ### 📬 Connect With Me  
-- 📧 Email: **shrineshshrinesh4@gmail.com**  
-- 💼 LinkedIn: [Shrinesh K](https://www.linkedin.com/in/shrinesh-k-33669b258)  
-- 🐦 Twitter: [@__Shrinesh__](https://x.com/__Shrinesh__?t=cuLDlmLQkgeFpeQKhrz2iQ&s=08)  
+- 📧 **Email**: [shrineshshrinesh4@gmail.com](mailto:shrineshshrinesh4@gmail.com)  
+- 💼 **LinkedIn**: [Shrinesh K](https://www.linkedin.com/in/shrinesh-k-33669b258)  
+- 🐦 **Twitter**: [@__Shrinesh__](https://x.com/__Shrinesh__?t=cuLDlmLQkgeFpeQKhrz2iQ&s=08)  
 
 ---
 
