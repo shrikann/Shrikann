@@ -40,6 +40,6 @@ Dedicated and proficient Software Developer with expertise in **Java** and stron
 
 ---
 
-### 🎉 Fun Ending  
+
 Thanks for visiting my profile!  
-![Bye](https://media.giphy.com/media/26xBukhX6s2GfLidK/giphy.gif)
+![Bye]([https://media.giphy.com/media/26xBukhX6s2GfLidK/giphy.gif](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cHJ3cjVyend2ZWRzbDdnZzFvenY5cXh1a3F5dmRvcWp0anVtcHcxMyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/Bht33KS4YXaHS5ABOP/giphy.gif))
