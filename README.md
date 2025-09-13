@@ -3,7 +3,7 @@
 ## 🚀 Passionate Software Developer | Web Enthusiast | Front End Developer | Back End Developer  
 
 ### 👨‍💻 About Me  
-Dedicated and proficient Software Developer with expertise in **Java** and strong problem-solving abilities, seeking a challenging role to contribute to innovative projects in web technologies and scalable application design.  
+A skilled developer specializing in both back-end and front-end development. I utilize Java and Python to build powerful and scalable applications, while my proficiency in CSS allows me to craft engaging and responsive web interfaces. I thrive on bringing ideas to life through code and I am dedicated to writing clean, maintainable, and effective solutions. Also good at working with team, problem solver, logical thinker. 
 
 ---
 
